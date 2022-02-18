@@ -229,7 +229,7 @@ def CarRent():
                     f1.write(car)
                     f1.close()
 
-                    db = TinyDB("C:\\Users\\Aditya\\Desktop\\Car Rental\\User.json")
+                    db = TinyDB("Your json file path")
                     user = Query()
                     db.update({"Car" : "No Car rented"}, user.Name == n)
                     db.update({"Date" : "No due date"}, user.Name == n)
