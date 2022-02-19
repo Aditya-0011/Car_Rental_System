@@ -1,3 +1,5 @@
+#Go through ReadMe.txt before going for code.
+
 from difflib import get_close_matches
 from colorama import Fore
 from tinydb import *
