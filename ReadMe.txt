@@ -41,7 +41,7 @@ You need to create two text files for first time:
   >> You may also create a third file to have a list of all cars.
   >> I have attached them for your referance.
 
-
+ 
 Steps to get path of any file:
   1. Right click on your desired file and select 'Copy as path'.
   2. It will be copied something as "C:\Users\Alpha\Desktop\New Text Document.txt".
