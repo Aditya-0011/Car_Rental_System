@@ -2,7 +2,6 @@ from difflib import get_close_matches
 from colorama import Fore
 from tinydb import *
 from datetime import *
-import time
 from os import system
 from pathlib import Path
 
@@ -68,7 +67,7 @@ def CarRent():
 
             elif s == 5:
                 print(Fore.GREEN + '\nThanks for using our Services\n' + Fore.RESET)
-                time.sleep(5)
+                input(Fore.CYAN + "\nPress Enter to continue.\n" + Fore.RESET)
                 system('cls') 
                 return CarRent()
 
