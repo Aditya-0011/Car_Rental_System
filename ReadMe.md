@@ -1,4 +1,4 @@
-Car Rental System using TinyDb(NoSql) and File Handling
+Car Rental System using Python and TinyDb(NoSql) and File Handling
 =======================================================
 
 Libraries required
