@@ -44,15 +44,15 @@ You need to create a json file for database
     ```
 You need to create two text files for first time
 -------------------------------------------------
-- One will have list of cars that are available to rent.
-- Second will have list of cars that are currently rented.
-- You may also create a third file to have a list of all cars.
-- I have attached them for your referance.
+   - One will have list of cars that are available to rent.
+   - Second will have list of cars that are currently rented.
+   - You may also create a third file to have a list of all cars.
+   - I have attached them for your referance.
 
 Steps to get path of any file
 ------------------------------
-  ```
-  1. Right click on your desired file and select 'Copy as path'.
-  2. It will be copied something as "C:\Users\Alpha\Desktop\New Text Document.txt".
-  3. In program paste it as "C:\\Users\\Alpha\\Desktop\\New Text Document.txt".
-  ```
+   ```
+   1. Right click on your desired file and select 'Copy as path'.
+   2. It will be copied something as "C:\Users\Alpha\Desktop\New Text Document.txt".
+   3. In program paste it as "C:\\Users\\Alpha\\Desktop\\New Text Document.txt".
+   ```
