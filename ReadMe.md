@@ -5,11 +5,11 @@ Libraries required
 -------------------
 - __Colorama__  
    1. To print colored text in terminal window.  
-   2. Install command: `pip install colorama`   
+   2. Install command: ```pip install colorama```   
     
  - __TinyDb__  
    1. To create and handle json database.  
-   2. Install command: `pip install tinydb`
+   2. Install command: ```pip install tinydb```
 
 - __Difflib__  
    1. To get close match of any name(here it is car name).  
