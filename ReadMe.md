@@ -47,7 +47,7 @@ You need to create two text files for first time
    - One will have list of cars that are available to rent.
    - Second will have list of cars that are currently rented.
    - You may also create a third file to have a list of all cars.
-   - I have attached them for your referance.
+   - I have attached them for your referance.  
 > - If you are running this programme then cut and paste the contents of [CarRented.txt](https://github.com/Aditya-0011/Car_Rental_System/blob/main/CarRented.txt) to [CarAvailable.txt](https://github.com/Aditya-0011/Car_Rental_System/blob/main/CarAvailable.txt).  
 > - [CarList.txt](https://github.com/Aditya-0011/Car_Rental_System/blob/main/CarList.txt) contains list of all cars.
 
