@@ -36,7 +36,7 @@ def CarRent():
             elif s == 2:
                 rec =  db.search((user.Aadhar == n))
 
-                if Path("Path of your file containing cars that are can be rented").stat().st_size == 0:
+                if Path("Path of your file containing cars that can be rented").stat().st_size == 0:
                     print(Fore.RED + "\nNo car is available to rent. Please check later." + Fore.RESET)
                     input(Fore.CYAN + "\nPress Enter to continue.\n" + Fore.RESET)
                     return ShowServices(n)
@@ -79,13 +79,13 @@ def CarRent():
 
 
         def CurrentCar(n, k):
-            if Path("Path of your file containing cars that are can be rented").stat().st_size == 0:
+            if Path("Path of your file containing cars that can be rented").stat().st_size == 0:
                 print(Fore.RED + "\nNo car is available to rent. Please check later." + Fore.RESET)
                 input(Fore.CYAN + "\nPress Enter to continue.\n" + Fore.RESET)
                 return ShowServices(n)
             
             else:
-                f = open("Path of your file containing cars that are can be rented", "r")
+                f = open("Path of your file containing cars that can be rented", "r")
                 
                 print(Fore.CYAN + "\nCars available are:-\n",f.read(),sep ='')
                 
@@ -111,7 +111,7 @@ def CarRent():
                         return ShowServices(n)
                     
                     else:    
-                        f = open("Path of your file containing cars that are can be rented", "r")
+                        f = open("Path of your file containing cars that can be rented", "r")
                         find = f.read()
                         return Pay(car, find, n)
 
@@ -164,7 +164,7 @@ def CarRent():
                     return Pay(car, find, n)
             else:
                 l = []
-                f = open("Path of your file containing cars that are can be rented","r")
+                f = open("Path of your file containing cars that can be rented","r")
                 
                 for cars in f:
                     l.append(cars.strip())
@@ -194,9 +194,9 @@ def CarRent():
             
 
         def afterPay(car, n, returnDay):    
-            f = open("Path of your file containing cars that are can be rented", "r")
+            f = open("Path of your file containing cars that can be rented", "r")
             fremove = f.readlines()
-            f = open("Path of your file containing cars that are can be rented", "w")
+            f = open("Path of your file containing cars that can be rented", "w")
             
             for AvaiCar in fremove:
                 if AvaiCar.strip("\n") != car:
@@ -245,7 +245,7 @@ def CarRent():
                     f.close()
 
                     f = open("Path of your file containing cars that are currently rented", "r")
-                    f1 = open("Path of your file containing cars that are can be rented", "a")
+                    f1 = open("Path of your file containing cars that can be rented", "a")
                     f1.write("\n")
                     f1.write(car)
                     f1.close()
