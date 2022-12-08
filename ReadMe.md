@@ -15,7 +15,7 @@
       </ul>
      </li>
     <li>
-      <a href="#Steps-to-install-librarires">Steps to install libraries</a>
+      <a href="#Steps-to-install-libraries">Steps to install libraries</a>
     </li>
     <li>
        <a href="#You-need-to-create-a-json-file-for-database">Steps to create database</a>
