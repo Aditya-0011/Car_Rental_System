@@ -63,7 +63,7 @@
    1. To define path.  
    2. Comes pre-installed with Python. 
     
-   <p align="right">(<a href="https://github.com/Aditya-0011/Car_Rental_System/blob/main/ReadMe.md">back to top</a>)</p>
+   <p align="right">(<a href="#top">back to top</a>)</p>
    
 ## Steps to install libraries
   ```
@@ -71,7 +71,7 @@
   2. Enter install commands to install that library.
   ```
   
-   <p align="right">(<a href="https://github.com/Aditya-0011/Car_Rental_System/blob/main/ReadMe.md">back to top</a>)</p>
+   <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## You need to create a json file for database
   - Steps to create json file  
@@ -81,7 +81,7 @@
     3. Rename the file with extension '.json'.
     ```
     
-     <p align="right">(<a href="https://github.com/Aditya-0011/Car_Rental_System/blob/main/ReadMe.md">back to top</a>)</p>
+     <p align="right">(<a href="#top">back to top</a>)</p>
     
 ## You need to create two text files for first time
    - One will have list of cars that are available to rent.
@@ -91,7 +91,7 @@
 > - If you are running this programme then cut and paste the contents of [CarRented.txt](https://github.com/Aditya-0011/Car_Rental_System/blob/main/CarRented.txt) to [CarAvailable.txt](https://github.com/Aditya-0011/Car_Rental_System/blob/main/CarAvailable.txt).  
 > - [CarList.txt](https://github.com/Aditya-0011/Car_Rental_System/blob/main/CarList.txt) contains list of all cars.
 
- <p align="right">(<a href="https://github.com/Aditya-0011/Car_Rental_System/blob/main/ReadMe.md">back to top</a>)</p>
+ <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Steps to get path of any file
    ```
@@ -100,4 +100,4 @@
    3. In program paste it as "C:\\Users\\Alpha\\Desktop\\New Text Document.txt".
    ```
 
- <p align="right">(<a href="https://github.com/Aditya-0011/Car_Rental_System/blob/main/ReadMe.md">back to top</a>)</p>
+ <p align="right">(<a href="#top">back to top</a>)</p>
