@@ -4,27 +4,27 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="Libraries-required">Libraries required</a>
+      <a href="#Libraries-required">Libraries required</a>
       <ul>
-        <li><a href="Colorama">Colorama</a></li>
-        <li><a href="TinyDb">TinyDb</a></li>
-        <li><a href="Difflib">Difflib</a></li>
-        <li><a href="Datetime">Datetime</a></li>
-        <li><a href="OS">OS</a></li>
-        <li><a href="Pathlib">Pathlib</a></li>
+        <li><a href="#Colorama">Colorama</a></li>
+        <li><a href="#TinyDb">TinyDb</a></li>
+        <li><a href="#Difflib">Difflib</a></li>
+        <li><a href="#Datetime">Datetime</a></li>
+        <li><a href="#OS">OS</a></li>
+        <li><a href="#Pathlib">Pathlib</a></li>
       </ul>
      </li>
     <li>
-      <a href="Steps-to-install-librarires">Steps to install libraries</a>
+      <a href="#Steps-to-install-librarires">Steps to install libraries</a>
     </li>
     <li>
-       <a href="You-need-to-create-a-json-file-for-database">Steps to create database</a>
+       <a href="#You-need-to-create-a-json-file-for-database">Steps to create database</a>
     </li>
     <li>
-       <a href="You-need-to-create-two-text-files-for-first-time">Steps to create car list</a>
+       <a href="#You-need-to-create-two-text-files-for-first-time">Steps to create car list</a>
     </li>
     <li>
-       <a href="Steps-to-get-path-of-any-file">Steps to create car list</a>
+       <a href="#Steps-to-get-path-of-any-file">Steps to create car list</a>
     </li>
   </ol>
 </details>
