@@ -24,7 +24,7 @@
        <a href="#You-need-to-create-two-text-files-for-first-time">Steps to create car list</a>
     </li>
     <li>
-       <a href="#Steps-to-get-path-of-any-file">Steps to create car list</a>
+       <a href="#Steps-to-get-path-of-any-file">Steps to get file path</a>
     </li>
   </ol>
 </details>
@@ -66,38 +66,44 @@
    <p align="right">(<a href="#top">back to top</a>)</p>
    
 ## Steps to install libraries
-  ```
-  1. Open command prompt.  
-  2. Enter install commands to install that library.
-  ```
+  <ol type = "1">
+  <li>Open command prompt.</li>  
+  <li>Enter install commands to install that library.</li>
+  </ol>
   
    <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## You need to create a json file for database
   - Steps to create json file  
-    ```
-    1. Right click and select 'New' option.
-    2. Select 'Text Document'.
-    3. Rename the file with extension '.json'.
-    ```
+    <ol type = "1">
+    <li> Right click and select 'New' option. </li>
+    <li> Select 'Text Document'.</li>
+    <li> Rename the file with extension '.json'.</li>
+    </ol>
     
      <p align="right">(<a href="#top">back to top</a>)</p>
     
-## You need to create two text files for first time
-   - One will have list of cars that are available to rent.
-   - Second will have list of cars that are currently rented.
-   - You may also create a third file to have a list of all cars.
-   - I have attached them for your referance.  
-> - If you are running this programme then cut and paste the contents of [CarRented.txt](https://github.com/Aditya-0011/Car_Rental_System/blob/main/CarRented.txt) to [CarAvailable.txt](https://github.com/Aditya-0011/Car_Rental_System/blob/main/CarAvailable.txt).  
-> - [CarList.txt](https://github.com/Aditya-0011/Car_Rental_System/blob/main/CarList.txt) contains list of all cars.
+## Steps to create car list
+   __You need to create two text files for first time.__
+   <ul>
+   <li> One will have list of cars that are available to rent.</li>
+   <li> Second will have list of cars that are currently rented.</li>
+   <li> You may also create a third file to have a list of all cars.</li>
+   <li> I have attached them for your referance.</li>
+   </ul>
+   <blockquote>
+   <ul>
+   <li>If you are running this programme for first time then cut and paste the contents of <a href = "https://github.com/Aditya-0011/Car_Rental_System/blob/main/CarRented.txt">CarRented.txt</a> to <a href = "https://github.com/Aditya-0011/Car_Rental_System/blob/main/CarAvailable.txt">CarAvailable.txt</a>.</li>
+   <li> <a href = "https://github.com/Aditya-0011/Car_Rental_System/blob/main/CarList.txt">CarList.txt</a> contains list of all cars.</li>
+   </blockquote>
 
  <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Steps to get path of any file
-   ```
-   1. Right click on your desired file and select 'Copy as path'.
-   2. It will be copied something as "C:\Users\Alpha\Desktop\New Text Document.txt".
-   3. In program paste it as "C:\\Users\\Alpha\\Desktop\\New Text Document.txt".
-   ```
+   <ol type = "1">
+   <li> Right click on your desired file and select 'Copy as path'.</li> 
+   <li> It will be copied something as "C:\Users\Alpha\Desktop\New Text Document.txt".</li> 
+   <li> In program paste it as "C:\\Users\\Alpha\\Desktop\\New Text Document.txt".</li> 
+   </ol>
 
  <p align="right">(<a href="#top">back to top</a>)</p>
