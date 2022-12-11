@@ -4,16 +4,16 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Libraries-required">Libraries required</a>
-      <ul>
-        <li><a href="#Colorama">Colorama</a></li>
-        <li><a href="#TinyDb">TinyDb</a></li>
-        <li><a href="#Difflib">Difflib</a></li>
-        <li><a href="#Datetime">Datetime</a></li>
-        <li><a href="#OS">OS</a></li>
-        <li><a href="#Pathlib">Pathlib</a></li>
-      </ul>
-     </li>
+     Libraries required
+     <ul>
+       <li><a href="#Colorama">Colorama</a></li>
+       <li><a href="#TinyDb">TinyDb</a></li>
+       <li><a href="#Difflib">Difflib</a></li>
+       <li><a href="#Datetime">Datetime</a></li>
+       <li><a href="#OS">OS</a></li>
+       <li><a href="#Pathlib">Pathlib</a></li>
+     </ul>
+    </li>
     <li>
       <a href="#Steps-to-install-libraries">Steps to install libraries</a>
     </li>
