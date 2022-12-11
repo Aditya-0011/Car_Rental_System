@@ -4,14 +4,14 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-     Libraries required
+     <a href = "#Libraries-required">Libraries required</li>
      <ul>
-       <li><a href="#Colorama">Colorama</a></li>
-       <li><a href="#TinyDb">TinyDb</a></li>
-       <li><a href="#Difflib">Difflib</a></li>
-       <li><a href="#Datetime">Datetime</a></li>
-       <li><a href="#OS">OS</a></li>
-       <li><a href="#Pathlib">Pathlib</a></li>
+       <li>Colorama</li>
+       <li>TinyDb</li>
+       <li>Difflib</li>
+       <li>Datetime</li>
+       <li>OS</li>
+       <li>Pathlib</li>
      </ul>
     </li>
     <li>
