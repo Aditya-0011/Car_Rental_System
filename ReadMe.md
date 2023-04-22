@@ -76,9 +76,9 @@
 ## You need to create a json file for database
   - Steps to create json file  
     <ol type = "1">
-    <li> Right click and select 'New' option. </li>
-    <li> Select 'Text Document'.</li>
-    <li> Rename the file with extension '.json'.</li>
+    <li> Right click and select `New` option. </li>
+    <li> Select `Text Document`.</li>
+    <li> Rename the file with extension `.json`.</li>
     </ol>
     
      <p align="right">(<a href="#top">back to top</a>)</p>
@@ -101,9 +101,9 @@
 
 ## Steps to get path of any file
    <ol type = "1">
-   <li> Right click on your desired file and select 'Copy as path'.</li> 
-   <li> It will be copied something as "C:\Users\Alpha\Desktop\New Text Document.txt".</li> 
-   <li> In program paste it as "C:\\Users\\Alpha\\Desktop\\New Text Document.txt".</li> 
+   <li> Right click on your desired file and select `Copy as path`.</li> 
+   <li> It will be copied something as `C:\Users\Alpha\Desktop\New Text Document.txt`.</li> 
+   <li> In program paste it as `C:\\Users\\Alpha\\Desktop\\New Text Document.txt`.</li> 
    </ol>
 
  <p align="right">(<a href="#top">back to top</a>)</p>
